@@ -1,0 +1,23 @@
+Class,Group,Positive,Count,Seroprevalence,Adjusted seroprevalence,2.5% Credible Interval,97.5% Credible Interval
+Sex,F,72,2491,0.0289,0.0270,0.0109,0.0361
+Sex,M,119,2231,0.0533,0.0531,0.0373,0.0661
+Age Group,0-19,11,281,0.0391,0.0410,0.0160,0.0690
+Age Group,20-39,51,1261,0.0404,0.0399,0.0229,0.0545
+Age Group,40-59,72,1322,0.0545,0.0546,0.0364,0.0713
+Age Group,60-79,41,1390,0.0295,0.0281,0.0110,0.0404
+Age Group,80+,17,481,0.0353,0.0363,0.0155,0.0580
+Insurance Type,Government,120,2937,0.0409,0.0398,0.0232,0.0504
+Insurance Type,Private or Employer,50,1421,0.0352,0.0341,0.0157,0.0474
+Insurance Type,Uninsured,16,269,0.0595,0.0634,0.0315,0.0990
+Insurance Type,Unknown,6,108,0.0556,0.0643,0.0228,0.1231
+Hospital Group,UCSF,119,3037,0.0392,0.0379,0.0208,0.0486
+Hospital Group,ZSFG,73,1698,0.0430,0.0419,0.0244,0.0557
+Race/Ethnicity,Asian,30,1206,0.0249,0.0233,0.0079,0.0353
+Race/Ethnicity,Black or African American,28,591,0.0474,0.0483,0.0281,0.0696
+Race/Ethnicity,Hispanic,53,858,0.0618,0.0633,0.0437,0.0829
+Race/Ethnicity,Other,14,348,0.0402,0.0422,0.0202,0.0691
+Race/Ethnicity,White,65,1675,0.0388,0.0379,0.0230,0.0506
+Month,March,6,192,0.0313,0.0341,0.0097,0.0655
+Month,April,44,959,0.0459,0.0459,0.0274,0.0631
+Month,May,85,2047,0.0415,0.0404,0.0240,0.0529
+Month,June,56,1526,0.0367,0.0358,0.0189,0.0490
