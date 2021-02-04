@@ -1,6 +1,8 @@
 # Serosurveillance for Continuous, ActionabLe Epidemiologic Intelligence of Transmission (SCALE-IT)
 
 Code to reproduce results described in "Citywide serosurveillance of the initial SARS-CoV-2 outbreak in San Francisco" by Routledge, Epstein, Takahashi et al. [link to pre-print will be here once live].
+
+https://github.com/EPPIcenter/scale-it/blob/main/Function_sampling_algorithm.R contains the function used to select samples for analysis, stratifying by age and zipcode. 
    
 https://github.com/EPPIcenter/scale-it/blob/main/Generate_fig_3.R generates Figure 3 in the manuscript, using Supplementary Table 2.
  
